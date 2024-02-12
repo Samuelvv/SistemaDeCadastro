@@ -2,5 +2,5 @@
 Para rodar esse projeto
 
  ```
- npm install 
+ node app.js
  ```
